@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Ejay (@pystar) 👋
 
-<!--
-**aitoehigie/aitoehigie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, technical writer and Indiehacker
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://hunchank.co and https://notapod.com
+- 🌱 I’m currently learning Python, Elixir, SQL.
+- 👯 I’m looking to collaborate on creating content.
+- 🤔 I’m looking for help with design, business models for software businesses.
+- 💬 Ask me about Python, SQL, Postgres, Databases
+- 📫 How to reach me: @pystar, aitoehigie@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 🤔
