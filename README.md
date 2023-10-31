@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://hunchank.co and https://notapod.com
-- 🌱 I’m currently learning Python, Elixir, SQL.
+
+- 🌱 I’m currently learning Python, Rust, Zig, Elixir, SQL.
 - 👯 I’m looking to collaborate on creating content.
 - 🤔 I’m looking for help with design, business models for software businesses.
 - 💬 Ask me about Python, SQL, Postgres, Databases
